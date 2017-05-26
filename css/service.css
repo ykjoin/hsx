@@ -1,0 +1,82 @@
+@import url("flooter.css");
+@import url("header.css");
+.section img{
+	width: 100%;
+	display: block;
+}
+.section{
+	position: relative;
+}
+.section div{
+	width: 416px;
+	height: 93px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin-top: -46px;
+	margin-left: -208px;
+}
+.section .tiao{
+	height: 30px;
+	background: #606060;
+}
+.public .ul1{
+	list-style: none;
+	width: 100%;
+	padding: 40px 0px ;
+}
+.public .ul1 li{
+	float: left;
+	width: 25%;
+	text-align: center;
+}
+.public .ul1 li a{
+	color: #429bd2;
+	text-decoration: none;
+	padding: 5px 20px;
+	font-size: 16px;
+}
+.public .ul1 li a:hover{
+	background: #0088cb;
+	color: #e9f1f8;
+}
+.public .ul2{
+	width: 1015px;
+	margin-left: -15px;
+}
+.public .ul2 li{
+	width: 33.3333%;
+	float: left;
+	padding-bottom: 30px;
+}
+.public .ul2 li .list{
+	padding-left: 15px;
+}
+.public .ul2 li .list .content{
+	color: #606060;
+	font-size: 12px;
+}
+.public .ul2 li .list .content span{
+	color: #b1b1b1;
+}
+.public .ul3{
+	width: 300px;
+	margin: 0 auto;
+	padding: 90px 0px;
+}
+.public .ul3 li{
+	float: left;
+	padding: 9px 11px;
+	background: #20a4d3;
+	color: white;
+	margin-left: 10px;
+	border-radius: 3px;
+}
+.public .ul3 .the{
+	padding: 9px 15px;
+}
+.public .ul3 li:hover{
+	background: #424949;
+	color: #eaecec;
+	cursor: pointer;
+}

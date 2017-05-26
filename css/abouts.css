@@ -1,0 +1,54 @@
+@import url("header.css");
+@import url("flooter.css");
+.img img{
+	width: 100%;
+	display: block;
+}
+.tiao{
+	height: 30px;
+	background: #606060;
+	font-size: 16px;
+	text-align: center;
+	color: #eeeeee;
+	line-height: 30px;
+}
+.center .p{
+	font-size: 12px;
+	color: #aaaaaa;
+	margin: 0px;
+	padding: 10px 0px;
+}
+.center .input{
+	float: right;
+	font-size: 14px;
+	padding: 5px 30px;
+	border: none;
+	background: #999999;
+	border-radius: 5px;
+}
+.center .input+p{
+	border-bottom: 1px solid #dfdfdf;
+}
+.center .span{
+	font-size: 12px;
+	color: #606060;
+}
+.center img{
+	display: block;
+	margin: auto;
+	padding-top: 20px;
+}
+.div1{
+	margin: 0 auto;
+	width: 366px;
+	padding: 50px 0px;
+}
+.div1 input{
+	font-size: 14px;
+	padding: 5px 30px;
+	border: none;
+	background: none;
+	border-radius: 2px;
+	border: 1px solid #bdbdbd;
+	margin-left: 10px;
+}

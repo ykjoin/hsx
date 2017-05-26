@@ -1,0 +1,99 @@
+@import url("header.css");
+@import url("flooter.css");
+.img img{
+	width: 100%;
+	display: block;
+}
+.tiao{
+	height: 30px;
+	background: #606060;
+}
+.center .p{
+	padding: 20px 10px;
+	color: #aaaaaa;
+	border-bottom: 1px solid #dfdfdf;
+}
+.center ul{
+	width: 100%;
+	padding: 10px 30px;
+	padding-bottom: 150px;
+}
+.center ul .img1 img{
+	float: left;
+	max-height: 301px;
+}
+.center ul .img1 div{
+	margin-left: 384px;
+	padding: 90px 0px;
+}
+.center ul  h3{
+	font-size: 19px;
+	color: #7c7c7c;
+}
+.center ul  p{
+	font-size: 14px;
+	color: #7c7c7c;
+}
+.center ul .img1 div input{
+	border: none;
+	background: #cb2f3c;
+	padding: 5px 25px;
+	color: #ffffff;
+	border-radius: 5px;
+}
+.center ul .img2 img{
+	float: right;
+}
+.center ul .img2 div{
+	margin-right: 384px;
+	padding: 90px 0px;
+}
+.center ul .img2 div input{
+	border: none;
+	background: #0071bd;
+	padding: 5px 25px;
+	color: #ffffff;
+	border-radius: 5px;
+}
+.center ul .img3 img{
+	float: left;
+}
+.center ul .img3 div{
+	margin-left: 522px;
+	padding: 90px 0px;
+}
+.center ul .img3 div input{
+	border: none;
+	background: #7b7b02;
+	padding: 5px 25px;
+	color: #ffffff;
+	border-radius: 5px;
+}
+.center ul .img4 img{
+	float: right;
+}
+.center ul .img4 div{
+	margin-right: 384px;
+	padding: 90px 0px;
+}
+.center ul .img4 div input{
+	border: none;
+	background: #860503;
+	padding: 5px 25px;
+	color: #ffffff;
+	border-radius: 5px;
+}
+.center ul .img5 img{
+	float: left;
+}
+.center ul .img5 div{
+	margin-left: 384px;
+	padding: 90px 0px;
+}
+.center ul .img5 div input{
+	border: none;
+	background: #27242c;
+	padding: 5px 25px;
+	color: #ffffff;
+	border-radius: 5px;
+}

@@ -1,0 +1,59 @@
+body,ul,li,a,div,input{
+	padding: 0;
+	margin: 0;
+	outline: none;
+	list-style: none;
+}
+.clear{
+	clear: both;
+}
+
+@keyframes name{
+	from{transform: translateY(-60px);}
+	to{transform: translateY(0px);}
+}
+.header{
+	width: 100%;
+	background: #1674c8;
+	z-index: 10;
+}
+.public{
+	width: 1000px;
+	margin: 0 auto;
+}
+.dao{
+	height: 60px;
+}
+.logo{
+	width: 82px;
+	height: 55px;
+	float: left;
+}
+.nav{
+	margin-left: 162px;
+	margin-right: 390px;
+}
+.nav li{
+	float: left;
+	color: white;
+	margin: 0px 10px;
+	padding-top:35px ;
+	font-size: 14px;
+}
+.input{
+	float: right;
+	padding-top: 35px;
+}
+.input input[type=text]{
+	float: left;
+	font-size: 12px;
+	height:16px;
+	padding: 0 15px;
+}
+.input input[type=button]{
+	float: left;
+	background: #ff8a00;
+	border: none;
+	padding: 2px;
+	width: 50px;
+}

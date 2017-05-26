@@ -1,0 +1,157 @@
+@import url("header.css");
+@import url("flooter.css");
+.center{
+	width: 100%;
+	background:-webkit-gradient(linear, 0% 0%, 0% 100%,from(#1774c8), to(#399dae));
+}
+.body{
+	text-align: center;
+	height: 552px;
+	}
+.nihao{
+	width:100%;
+    height: 374px;
+    position: relative;
+}
+
+.list{
+	padding-top: 90px;
+	margin: 0 auto;
+	color: white;
+	min-height: 24.55px;
+}
+.body input{
+	border: 1px solid white;
+	background: none;
+	border-radius: 5px;
+	color: white;
+	font-size: 15px;
+	margin-top: 30px;
+	padding: 5px;
+}
+.img1,.img2,.img3{
+	position: absolute;
+	bottom: -30px;
+	border-radius: 100%;
+	box-shadow:0px 20px 145px black;
+
+}
+
+.white{
+	width: 100%;
+	background: white;
+}
+.white .war h3{
+	color: black;
+	text-align: center;
+	padding-top: 180px;
+}
+.white .war p{
+	text-align: center;
+	font-size: 16px;
+	color: #7c7c7c;
+	width: 272px;
+	margin:10px auto;
+	border-top: 1px solid #d7d7d7;
+}
+.white .war ul{
+	margin-bottom: 30px;
+}
+.white .war li{
+	width: 33%;
+	float: left;
+	text-align: center;
+	padding-top: 60px;
+}
+.white .war li h3{
+	font-size: 14px;
+	padding: 0;
+}
+.white .war li p{
+	font-size: 12px;
+	color: #888787;
+	width: 100%;
+	border: none;
+}
+.we{
+	width: 100%;
+	background: #00a7cb;
+}
+.bac{
+	text-align: center;
+	height:410px;
+	background: url(../img/background.png);
+}
+.bac img{
+	margin-top: 100px;
+}
+.bac p{
+	color: #cdf4ff;
+	width: 856px;
+	margin: auto;
+	text-align: left;
+	margin-top: 30px;
+}
+.bac input{
+	background: none;
+	color:white;
+	border: none;
+	border: 1px solid #8fd7e7;
+	padding: 7px 30px;
+	font-size: 14px;
+	margin-top: 40px;
+}
+.Internet{
+	width: 100%;
+	background: #d5e0e5;
+	text-align: center;
+}
+.Internet h3{
+	color: #3c3c3c;
+	font-size: 33px;
+	display: inline-block;
+	border-bottom:1px solid #bec7cc ;
+}
+.Internet p{
+	color:#3c3c3c;
+	margin: 0;
+}
+.Internet ul{
+	width:1030px;
+	margin-left: -30px;
+}
+.Internet ul li{
+	float: left;
+	width: 25%;
+	margin-bottom: 100px;
+}
+.Internet ul li .div1{
+	padding-left:30px ;
+}
+.Internet ul li .div1 .div2{
+	text-align: left;
+	background: white;
+	border-radius: 5px;
+}
+.Internet ul li .div1 .div2 img{
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+}
+.Internet ul li .div1 .div2 h3{
+	font-size: 16px;
+	padding: 0;
+	border: none;
+	padding: 0 10px;
+}
+.Internet ul li .div1 .div2 p{
+	font-size: 12px;
+	color: #888787;
+	padding:0 10px;
+}
+.Internet input{
+	padding:7px 30px;
+	border: none;
+	background: #0071bd;
+	color: white;
+	margin-bottom: 50px;
+}
